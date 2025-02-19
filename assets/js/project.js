@@ -10,8 +10,8 @@ const projects = [
     cardImage: "assets/images/project-page/Amazon_clone.png",
     description: "A web development project mimicking Amazon's user interface for an e-commerce experience.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://e-commerce-website-zeta-beige.vercel.app/",
+    Githublink: "https://github.com/coderDhanunjayareddy/E-commerce-Website",
   },
   {
     title: "Bouncing_ball",
